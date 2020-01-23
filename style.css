@@ -1,0 +1,29 @@
+.bg-blue{
+  background-color: rgb(74, 120, 207);
+}
+.bg-black{
+  background-color: black;
+}
+.evenly{
+  justify-content: space-evenly;
+}
+.center{
+  justify-content: center;
+}
+/**{
+  outline-width: 1px;
+  outline-style: solid;
+  outline-color: red;
+}*/
+.top-bg-image{
+  background-image: url(https://images.pexels.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg?cs=srgb&dl=nature-sky-clouds-blue-53594.jpg&fm=jpg);
+  height: 100%;
+  width: 100%;
+}
+.bg-map{
+  background-image: url(http://www.shadedrelief.com/political/Resources/1.jpg);
+}
+.top-height{
+  height:30vh;
+}
+
